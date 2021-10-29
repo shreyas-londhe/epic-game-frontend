@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/epic-game-frontend/static/css/main.bd8e1a2d.chunk.css",
+    "main.js": "/epic-game-frontend/static/js/main.d2fe4b01.chunk.js",
+    "main.js.map": "/epic-game-frontend/static/js/main.d2fe4b01.chunk.js.map",
+    "runtime-main.js": "/epic-game-frontend/static/js/runtime-main.38996f6b.js",
+    "runtime-main.js.map": "/epic-game-frontend/static/js/runtime-main.38996f6b.js.map",
+    "static/js/2.dd5fbe62.chunk.js": "/epic-game-frontend/static/js/2.dd5fbe62.chunk.js",
+    "static/js/2.dd5fbe62.chunk.js.map": "/epic-game-frontend/static/js/2.dd5fbe62.chunk.js.map",
+    "index.html": "/epic-game-frontend/index.html",
+    "static/css/main.bd8e1a2d.chunk.css.map": "/epic-game-frontend/static/css/main.bd8e1a2d.chunk.css.map",
+    "static/js/2.dd5fbe62.chunk.js.LICENSE.txt": "/epic-game-frontend/static/js/2.dd5fbe62.chunk.js.LICENSE.txt",
+    "static/media/twitter-logo.a8a75254.svg": "/epic-game-frontend/static/media/twitter-logo.a8a75254.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38996f6b.js",
+    "static/js/2.dd5fbe62.chunk.js",
+    "static/css/main.bd8e1a2d.chunk.css",
+    "static/js/main.d2fe4b01.chunk.js"
+  ]
+}
