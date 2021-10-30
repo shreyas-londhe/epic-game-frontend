@@ -6,7 +6,7 @@ Play my Epic NFT Game!!
 
 This is my project for the course [Create your own mini turn-based NFT browser game](https://app.buildspace.so/courses/CO5cc2751b-e878-41c4-99fa-a614dc910ee9) at [Buildspace](https://buildspace.so/).
 
-Check the backend code at https://github.com/fmoliveira/epic-game-backend
+Check the backend code at https://github.com/shryasss/epic-game-backend
 
 ## Prerequisites
 
